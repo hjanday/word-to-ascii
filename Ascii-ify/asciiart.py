@@ -1,3 +1,4 @@
+```python
 user_word = input("Enter a word to be ascii-ifed ")
 
 ascii0= r' _______  ______   _______  ______   _______  _______  _______          __________________ _        _        _______  _        _______  _______  _______  _______  _______ _________                                              _______ '
@@ -31,4 +32,4 @@ for a_line in lis:
         horizontal += charLine #Get total horizontal word
     print(horizontal)
 
-
+```
