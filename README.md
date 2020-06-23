@@ -1,2 +1,2 @@
-# PythonProjects
-A repository of all the mini python project's I've done
+# Ascii-ify
+Ever wanted to troll your friends with ascii'ed messages? Well now you can. Just type a in word and the program will ascii-ify your word.
